@@ -1,0 +1,18 @@
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\bin\Release\Matching_cs.exe.config
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\bin\Release\SecuGen.FDxSDKPro.Windows.dll
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\obj\Release\sgdm.MainForm.resources
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\obj\Release\matching_cs2012.csproj.GenerateResource.Cache
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\obj\Release\Matching_cs.exe
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\bin\Release\SecuGen.FDxSDKPro.Windows.pdb
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\obj\Release\matching_cs2012.csprojResolveAssemblyReference.cache
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\bin\x64\Release\Matching_cs.exe.config
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\bin\x64\Release\Matching_cs.exe
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\bin\x64\Release\SecuGen.FDxSDKPro.Windows.dll
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\bin\x64\Release\SecuGen.FDxSDKPro.Windows.pdb
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\Matching\bin\x64\Release\Matching_cs.exe.config
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\Matching\obj\Release\Matching_cs.exe
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\Matching\bin\x64\Release\Matching_cs.exe
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\Matching\bin\x64\Release\SecuGen.FDxSDKPro.Windows.pdb
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\Matching\obj\Release\matching_cs2012.csprojResolveAssemblyReference.cache
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\Matching\obj\Release\sgdm.MainForm.resources
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\Matching\obj\Release\matching_cs2012.csproj.GenerateResource.Cache

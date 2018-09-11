@@ -1,0 +1,1 @@
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\bin\Matching_vb.exe.config

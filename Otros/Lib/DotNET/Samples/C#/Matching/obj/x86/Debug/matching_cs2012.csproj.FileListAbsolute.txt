@@ -1,0 +1,12 @@
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\bin\x86\Debug\Matching_cs.exe.config
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\bin\x86\Debug\Matching_cs.exe
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\bin\x86\Debug\Matching_cs.pdb
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\bin\x86\Debug\SecuGen.FDxSDKPro.Windows.dll
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\obj\x86\Debug\sgdm.MainForm.resources
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\obj\x86\Debug\matching_cs2012.csproj.GenerateResource.Cache
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\obj\x86\Debug\Matching_cs.exe
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\obj\x86\Debug\Matching_cs.pdb
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\Matching\bin\x86\Debug\SecuGen.FDxSDKPro.Windows.pdb
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\Matching\bin\x86\Debug\Matching_cs.exe.config
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\Matching\obj\x86\Debug\Matching_cs.exe
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\Matching\obj\x86\Debug\Matching_cs.pdb

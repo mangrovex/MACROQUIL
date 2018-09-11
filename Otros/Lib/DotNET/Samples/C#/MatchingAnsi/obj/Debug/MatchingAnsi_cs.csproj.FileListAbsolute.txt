@@ -1,0 +1,10 @@
+D:\work\Project\FDxSDKPro\DotNET\Samples\C#\MatchingAnsi\bin\Debug\MatchingAnsi_cs.exe.config
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\MatchingAnsi\bin\Debug\MatchingAnsi_cs.exe.config
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\MatchingAnsi\bin\Debug\MatchingAnsi_cs.exe
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\MatchingAnsi\bin\Debug\MatchingAnsi_cs.pdb
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\MatchingAnsi\bin\Debug\SecuGen.FDxSDKPro.Windows.dll
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\MatchingAnsi\obj\Debug\MatchingAnsi_cs.csprojResolveAssemblyReference.cache
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\MatchingAnsi\obj\Debug\MatchingAnsi.Form1.resources
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\MatchingAnsi\obj\Debug\MatchingAnsi_cs.csproj.GenerateResource.Cache
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\MatchingAnsi\obj\Debug\MatchingAnsi_cs.exe
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\C#\MatchingAnsi\obj\Debug\MatchingAnsi_cs.pdb
